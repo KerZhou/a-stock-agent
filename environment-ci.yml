@@ -1,0 +1,46 @@
+name: stock
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - plotly
+  - dash
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - pyyaml
+  - requests
+  - lxml
+  - beautifulsoup4
+  - tqdm
+  - rich
+  - tabulate
+  - pip
+  - pip:
+      # A股数据
+      - akshare
+      - efinance
+      - baostock
+      # 美股数据
+      - yfinance
+      # K线可视化
+      - mplfinance
+      # 量化回测
+      - backtrader
+      - vectorbt
+      # 技术指标
+      - pandas-ta
+      - TA-Lib
+      # 其他
+      - tushare
+      - openai
+      # cn-financial-mcp 为本地包，CI 中跳过

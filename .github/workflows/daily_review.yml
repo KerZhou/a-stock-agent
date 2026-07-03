@@ -1,0 +1,114 @@
+name: Daily Stock Review
+
+# 每周一~周五运行两次：
+#   - 03:30 UTC = 北京 11:30（盘中快览，上午盘刚收盘，行情完整）
+#   - 07:30 UTC = 北京 15:30（收盘复盘）
+# 注：盘中避开北京 12:00（A 股午休 11:30-13:00，数据源未刷新，会回退到前一交易日）。
+# 也支持手动触发 (workflow_dispatch)
+on:
+  schedule:
+    - cron: '30 3 * * 1-5'  # UTC 03:30 = 北京 11:30（盘中）
+    - cron: '30 7 * * 1-5'  # UTC 07:30 = 北京 15:30（收盘）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  daily-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Conda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          environment-file: environment-ci.yml
+          activate-environment: stock
+          auto-activate-base: false
+          use-only-tar-bz2: true
+
+      - name: Run daily review
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+        shell: bash -l {0}
+        run: |
+          conda activate stock
+          # 按触发的 cron 判断时段（不依赖实际运行时间，避免 GitHub Actions 延迟导致盘中被误判成收盘）
+          SCHEDULE="${{ github.event.schedule }}"
+          if [ "$SCHEDULE" = "30 3 * * 1-5" ]; then PERIOD=noon
+          elif [ "$SCHEDULE" = "30 7 * * 1-5" ]; then PERIOD=eod
+          else  # workflow_dispatch 手动触发或回退：按 UTC 时间判断
+            if [ "$(date -u +%H)" -lt 6 ]; then PERIOD=noon; else PERIOD=eod; fi
+          fi
+          echo "PERIOD=$PERIOD" >> "$GITHUB_ENV"
+          echo "时段 PERIOD=$PERIOD (schedule=$SCHEDULE)"
+          python scripts/daily_review.py --period "$PERIOD" -o "reports/$(date +%Y-%m-%d)-${PERIOD}.md"
+
+      - name: Run sector rotation check
+        shell: bash -l {0}
+        run: |
+          conda activate stock
+          python scripts/sector_rotation.py --report -o "reports/rotation-$(date +%Y-%m-%d)-${PERIOD}.md"
+
+      - name: Create GitHub Issue with report
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          if [ "$PERIOD" = "noon" ]; then LABEL=盘中; else LABEL=收盘; fi
+          REPORT_FILE="reports/${DATE}-${PERIOD}.md"
+
+          if [ ! -f "$REPORT_FILE" ]; then
+            echo "Report file not found, skipping issue creation"
+            exit 0
+          fi
+
+          # GitHub Issue body 限 65536 字符，截断保护
+          BODY=$(head -c 60000 "$REPORT_FILE")
+
+          # 关闭 7 天前的旧 Issue（避免堆积，但不关闭近期的以减少通知噪音）
+          CUTOFF=$(date -d '-7 days' +%Y-%m-%d 2>/dev/null || date -v-7d +%Y-%m-%d)
+          gh issue list --search "📊 每日复盘" --state open --json number,title -q '.[]' 2>/dev/null | \
+            python3 -c "
+          import sys, json
+          for line in sys.stdin:
+              try:
+                  item = json.loads(line)
+                  title = item.get('title', '')
+                  # 从标题提取日期，如 '📊 每日复盘 2026-06-02'
+                  date_str = title.split()[-1] if title else ''
+                  if date_str < '$CUTOFF':
+                      print(item['number'])
+              except: pass
+          " | while read NUM; do
+            gh issue close "$NUM" --reason "completed" 2>/dev/null || true
+          done
+
+          gh issue create \
+            --title "📊 每日复盘 · ${LABEL} ${DATE}" \
+            --body "$BODY" \
+            --label "daily-review" 2>/dev/null || \
+          gh issue create \
+            --title "📊 每日复盘 · ${LABEL} ${DATE}" \
+            --body "$BODY"
+
+      - name: Commit and push data
+        run: |
+          git config user.name "Stock Bot"
+          git config user.email "stock-bot@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add -f data/sector_history.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "📊 daily review $(date +%Y-%m-%d)"
+          git push origin main
