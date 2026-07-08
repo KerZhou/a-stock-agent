@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "max_days": 30
   },
   "dates": {
@@ -1006,6 +1006,508 @@
         "down_count": 0,
         "leader": "爱仕达",
         "leader_change": 9.991
+      }
+    ],
+    "2026-07-08": [
+      {
+        "rank": 1,
+        "name": "中报预增",
+        "code": "",
+        "change_pct": 9.99,
+        "up_count": 4,
+        "down_count": 0,
+        "leader": "雅化集团",
+        "leader_change": 9.996
+      },
+      {
+        "rank": 2,
+        "name": "机器人",
+        "code": "",
+        "change_pct": 9.99,
+        "up_count": 4,
+        "down_count": 0,
+        "leader": "视源股份",
+        "leader_change": 10.01
+      },
+      {
+        "rank": 3,
+        "name": "产能释放",
+        "code": "",
+        "change_pct": 15.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "威尔高",
+        "leader_change": 19.995
+      },
+      {
+        "rank": 4,
+        "name": "终止减持",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "多利科技",
+        "leader_change": 10.011
+      },
+      {
+        "rank": 5,
+        "name": "低空经济",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "力鼎光电",
+        "leader_change": 9.994
+      },
+      {
+        "rank": 6,
+        "name": "存储芯片",
+        "code": "",
+        "change_pct": 9.99,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "有研新材",
+        "leader_change": 10.002
+      },
+      {
+        "rank": 7,
+        "name": "央企",
+        "code": "",
+        "change_pct": 15.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "有研新材",
+        "leader_change": 10.002
+      },
+      {
+        "rank": 8,
+        "name": "先进封装",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "实益达",
+        "leader_change": 10.01
+      },
+      {
+        "rank": 9,
+        "name": "半导体硅片",
+        "code": "",
+        "change_pct": 14.99,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "有研硅",
+        "leader_change": 20
+      },
+      {
+        "rank": 10,
+        "name": "锂盐",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "雅化集团",
+        "leader_change": 9.996
+      },
+      {
+        "rank": 11,
+        "name": "硫化锂",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "雅化集团",
+        "leader_change": 9.996
+      },
+      {
+        "rank": 12,
+        "name": "AI教育",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "视源股份",
+        "leader_change": 10.01
+      },
+      {
+        "rank": 13,
+        "name": "AI电源",
+        "code": "",
+        "change_pct": 20.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "威尔高",
+        "leader_change": 19.995
+      },
+      {
+        "rank": 14,
+        "name": "PCB",
+        "code": "",
+        "change_pct": 20.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "威尔高",
+        "leader_change": 19.995
+      },
+      {
+        "rank": 15,
+        "name": "金融控股",
+        "code": "",
+        "change_pct": 9.91,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "浙江东方",
+        "leader_change": 9.91
+      },
+      {
+        "rank": 16,
+        "name": "浙江国资",
+        "code": "",
+        "change_pct": 9.91,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "浙江东方",
+        "leader_change": 9.91
+      },
+      {
+        "rank": 17,
+        "name": "铁矿石",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "宝地矿业",
+        "leader_change": 10.034
+      },
+      {
+        "rank": 18,
+        "name": "黄金",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "宝地矿业",
+        "leader_change": 10.034
+      },
+      {
+        "rank": 19,
+        "name": "新疆国资",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "宝地矿业",
+        "leader_change": 10.034
+      },
+      {
+        "rank": 20,
+        "name": "拟收购存储公司",
+        "code": "",
+        "change_pct": 9.98,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "恒尚节能",
+        "leader_change": 9.979
+      },
+      {
+        "rank": 21,
+        "name": "建筑幕墙",
+        "code": "",
+        "change_pct": 9.98,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "恒尚节能",
+        "leader_change": 9.979
+      },
+      {
+        "rank": 22,
+        "name": "跨界转型",
+        "code": "",
+        "change_pct": 9.98,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "恒尚节能",
+        "leader_change": 9.979
+      },
+      {
+        "rank": 23,
+        "name": "锂电池隔膜",
+        "code": "",
+        "change_pct": 10.04,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "佛塑科技",
+        "leader_change": 10.038
+      },
+      {
+        "rank": 24,
+        "name": "一季报增长",
+        "code": "",
+        "change_pct": 10.04,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "佛塑科技",
+        "leader_change": 10.038
+      },
+      {
+        "rank": 25,
+        "name": "广东国资",
+        "code": "",
+        "change_pct": 10.04,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "佛塑科技",
+        "leader_change": 10.038
+      },
+      {
+        "rank": 26,
+        "name": "AI视觉",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "魅视科技",
+        "leader_change": 10.003
+      },
+      {
+        "rank": 27,
+        "name": "边缘计算",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "魅视科技",
+        "leader_change": 10.003
+      },
+      {
+        "rank": 28,
+        "name": "光纤KVMS",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "魅视科技",
+        "leader_change": 10.003
+      },
+      {
+        "rank": 29,
+        "name": "商业航天",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "魅视科技",
+        "leader_change": 10.003
+      },
+      {
+        "rank": 30,
+        "name": "机器人概念",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "多利科技",
+        "leader_change": 10.011
+      },
+      {
+        "rank": 31,
+        "name": "特斯拉产业链",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "多利科技",
+        "leader_change": 10.011
+      },
+      {
+        "rank": 32,
+        "name": "超级电容",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "金时科技",
+        "leader_change": 10.007
+      },
+      {
+        "rank": 33,
+        "name": "间接投资光纤公司",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "金时科技",
+        "leader_change": 10.007
+      },
+      {
+        "rank": 34,
+        "name": "投建多孔炭产线",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "金时科技",
+        "leader_change": 10.007
+      },
+      {
+        "rank": 35,
+        "name": "储能",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "金时科技",
+        "leader_change": 10.007
+      },
+      {
+        "rank": 36,
+        "name": "机器视觉",
+        "code": "",
+        "change_pct": 9.97,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "大恒科技",
+        "leader_change": 9.972
+      },
+      {
+        "rank": 37,
+        "name": "半导体",
+        "code": "",
+        "change_pct": 9.97,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "大恒科技",
+        "leader_change": 9.972
+      },
+      {
+        "rank": 38,
+        "name": "电梯对重块",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "华菱精工",
+        "leader_change": 10
+      },
+      {
+        "rank": 39,
+        "name": "光伏支架",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "华菱精工",
+        "leader_change": 10
+      },
+      {
+        "rank": 40,
+        "name": "股份转让",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "华菱精工",
+        "leader_change": 10
+      },
+      {
+        "rank": 41,
+        "name": "机器人关节驱动",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "圣龙股份",
+        "leader_change": 10.027
+      },
+      {
+        "rank": 42,
+        "name": "飞行汽车",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "圣龙股份",
+        "leader_change": 10.027
+      },
+      {
+        "rank": 43,
+        "name": "泵类龙头",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "圣龙股份",
+        "leader_change": 10.027
+      },
+      {
+        "rank": 44,
+        "name": "磷化铟衬底",
+        "code": "",
+        "change_pct": 9.99,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "宿迁联盛",
+        "leader_change": 9.995
+      },
+      {
+        "rank": 45,
+        "name": "光稳定剂",
+        "code": "",
+        "change_pct": 9.99,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "宿迁联盛",
+        "leader_change": 9.995
+      },
+      {
+        "rank": 46,
+        "name": "光学镜头",
+        "code": "",
+        "change_pct": 9.99,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "力鼎光电",
+        "leader_change": 9.994
+      },
+      {
+        "rank": 47,
+        "name": "人形机器人",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "天海电子",
+        "leader_change": 9.998
+      },
+      {
+        "rank": 48,
+        "name": "汽车线束龙头",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "天海电子",
+        "leader_change": 9.998
+      },
+      {
+        "rank": 49,
+        "name": "广州国资",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "天海电子",
+        "leader_change": 9.998
+      },
+      {
+        "rank": 50,
+        "name": "MLCC离型膜",
+        "code": "",
+        "change_pct": 9.96,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "双星新材",
+        "leader_change": 9.961
       }
     ]
   }
