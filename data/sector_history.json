@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-07-22",
     "max_days": 30
   },
   "dates": {
@@ -9526,6 +9526,508 @@
         "leader": "603798",
         "leader_change": 4.14,
         "rank": 100
+      }
+    ],
+    "2026-07-22": [
+      {
+        "rank": 1,
+        "name": "中报预增",
+        "code": "",
+        "change_pct": 12.5,
+        "up_count": 24,
+        "down_count": 0,
+        "leader": "东方锆业",
+        "leader_change": 9.987
+      },
+      {
+        "rank": 2,
+        "name": "存储芯片",
+        "code": "",
+        "change_pct": 15.63,
+        "up_count": 16,
+        "down_count": 0,
+        "leader": "臻宝科技",
+        "leader_change": 20
+      },
+      {
+        "rank": 3,
+        "name": "先进封装",
+        "code": "",
+        "change_pct": 13.64,
+        "up_count": 11,
+        "down_count": 0,
+        "leader": "晶方科技",
+        "leader_change": 9.989
+      },
+      {
+        "rank": 4,
+        "name": "半导体设备",
+        "code": "",
+        "change_pct": 17.14,
+        "up_count": 7,
+        "down_count": 0,
+        "leader": "托伦斯",
+        "leader_change": 19.996
+      },
+      {
+        "rank": 5,
+        "name": "人形机器人",
+        "code": "",
+        "change_pct": 12.86,
+        "up_count": 7,
+        "down_count": 0,
+        "leader": "蔚蓝锂芯",
+        "leader_change": 10.026
+      },
+      {
+        "rank": 6,
+        "name": "定增获批",
+        "code": "",
+        "change_pct": 11.67,
+        "up_count": 6,
+        "down_count": 0,
+        "leader": "立新能源",
+        "leader_change": 10
+      },
+      {
+        "rank": 7,
+        "name": "半年报预增",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 5,
+        "down_count": 0,
+        "leader": "立新能源",
+        "leader_change": 10
+      },
+      {
+        "rank": 8,
+        "name": "AI应用",
+        "code": "",
+        "change_pct": 12.51,
+        "up_count": 4,
+        "down_count": 0,
+        "leader": "京北方",
+        "leader_change": 10.041
+      },
+      {
+        "rank": 9,
+        "name": "北京国资",
+        "code": "",
+        "change_pct": 15.0,
+        "up_count": 4,
+        "down_count": 0,
+        "leader": "翠微股份",
+        "leader_change": 10.025
+      },
+      {
+        "rank": 10,
+        "name": "央企",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 4,
+        "down_count": 0,
+        "leader": "凯盛科技",
+        "leader_change": 9.993
+      },
+      {
+        "rank": 11,
+        "name": "算力租赁",
+        "code": "",
+        "change_pct": 10.02,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "美利云",
+        "leader_change": 9.978
+      },
+      {
+        "rank": 12,
+        "name": "固态电池",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "东方锆业",
+        "leader_change": 9.987
+      },
+      {
+        "rank": 13,
+        "name": "回购",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "长缆科技",
+        "leader_change": 9.976
+      },
+      {
+        "rank": 14,
+        "name": "机器人",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "共进股份",
+        "leader_change": 10.022
+      },
+      {
+        "rank": 15,
+        "name": "次新股",
+        "code": "",
+        "change_pct": 16.67,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "托伦斯",
+        "leader_change": 19.996
+      },
+      {
+        "rank": 16,
+        "name": "半导体测试设备",
+        "code": "",
+        "change_pct": 16.67,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "金海通",
+        "leader_change": 10.001
+      },
+      {
+        "rank": 17,
+        "name": "商业航天",
+        "code": "",
+        "change_pct": 16.67,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "睿创微纳",
+        "leader_change": 19.998
+      },
+      {
+        "rank": 18,
+        "name": "超级电容",
+        "code": "",
+        "change_pct": 9.98,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "江海股份",
+        "leader_change": 10.008
+      },
+      {
+        "rank": 19,
+        "name": "光模块",
+        "code": "",
+        "change_pct": 13.34,
+        "up_count": 3,
+        "down_count": 0,
+        "leader": "联特科技",
+        "leader_change": 20
+      },
+      {
+        "rank": 20,
+        "name": "股权转让",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "爱丽家居",
+        "leader_change": 10.042
+      },
+      {
+        "rank": 21,
+        "name": "一季报增长",
+        "code": "",
+        "change_pct": 20.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "扬电科技",
+        "leader_change": 20.02
+      },
+      {
+        "rank": 22,
+        "name": "金融科技",
+        "code": "",
+        "change_pct": 10.05,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "证通电子",
+        "leader_change": 10.069
+      },
+      {
+        "rank": 23,
+        "name": "数字人民币",
+        "code": "",
+        "change_pct": 10.03,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "京北方",
+        "leader_change": 10.041
+      },
+      {
+        "rank": 24,
+        "name": "跨境支付",
+        "code": "",
+        "change_pct": 9.99,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "神州信息",
+        "leader_change": 9.958
+      },
+      {
+        "rank": 25,
+        "name": "数据中心交换机",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "共进股份",
+        "leader_change": 10.022
+      },
+      {
+        "rank": 26,
+        "name": "功率半导体",
+        "code": "",
+        "change_pct": 15.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "新洁能",
+        "leader_change": 10.01
+      },
+      {
+        "rank": 27,
+        "name": "超跌反弹",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "新洁能",
+        "leader_change": 10.01
+      },
+      {
+        "rank": 28,
+        "name": "光模块上游",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "顺络电子",
+        "leader_change": 10.005
+      },
+      {
+        "rank": 29,
+        "name": "AI算力PCB",
+        "code": "",
+        "change_pct": 14.99,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "大族激光",
+        "leader_change": 9.998
+      },
+      {
+        "rank": 30,
+        "name": "上海国资",
+        "code": "",
+        "change_pct": 15.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "同济科技",
+        "leader_change": 9.991
+      },
+      {
+        "rank": 31,
+        "name": "AI算力",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "江南新材",
+        "leader_change": 10
+      },
+      {
+        "rank": 32,
+        "name": "H股上市",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "麦格米特",
+        "leader_change": 9.998
+      },
+      {
+        "rank": 33,
+        "name": "PCB概念",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "宏和科技",
+        "leader_change": 10.004
+      },
+      {
+        "rank": 34,
+        "name": "AI服务器",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "紫光股份",
+        "leader_change": 10.003
+      },
+      {
+        "rank": 35,
+        "name": "AI服务器电源",
+        "code": "",
+        "change_pct": 15.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "杰华特",
+        "leader_change": 19.997
+      },
+      {
+        "rank": 36,
+        "name": "CPO",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "星网锐捷",
+        "leader_change": 9.986
+      },
+      {
+        "rank": 37,
+        "name": "PCB",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "奥士康",
+        "leader_change": 9.995
+      },
+      {
+        "rank": 38,
+        "name": "AIPC",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "奥士康",
+        "leader_change": 9.995
+      },
+      {
+        "rank": 39,
+        "name": "算力",
+        "code": "",
+        "change_pct": 19.98,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "金刚光伏",
+        "leader_change": 19.976
+      },
+      {
+        "rank": 40,
+        "name": "HBM",
+        "code": "",
+        "change_pct": 15.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "雅克科技",
+        "leader_change": 10
+      },
+      {
+        "rank": 41,
+        "name": "客户长鑫",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "雅克科技",
+        "leader_change": 10
+      },
+      {
+        "rank": 42,
+        "name": "半导体量检测",
+        "code": "",
+        "change_pct": 20.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "天准科技",
+        "leader_change": 19.997
+      },
+      {
+        "rank": 43,
+        "name": "白银",
+        "code": "",
+        "change_pct": 10.01,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "兴业银锡",
+        "leader_change": 9.989
+      },
+      {
+        "rank": 44,
+        "name": "液冷服务器",
+        "code": "",
+        "change_pct": 15.0,
+        "up_count": 2,
+        "down_count": 0,
+        "leader": "菲沃泰",
+        "leader_change": 19.991
+      },
+      {
+        "rank": 45,
+        "name": "风电光伏",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "立新能源",
+        "leader_change": 10
+      },
+      {
+        "rank": 46,
+        "name": "新疆国资",
+        "code": "",
+        "change_pct": 10.0,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "立新能源",
+        "leader_change": 10
+      },
+      {
+        "rank": 47,
+        "name": "拟收购欧康诺",
+        "code": "",
+        "change_pct": 10.04,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "爱丽家居",
+        "leader_change": 10.042
+      },
+      {
+        "rank": 48,
+        "name": "PVC弹性地板",
+        "code": "",
+        "change_pct": 10.04,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "爱丽家居",
+        "leader_change": 10.042
+      },
+      {
+        "rank": 49,
+        "name": "Home Depot供应链",
+        "code": "",
+        "change_pct": 10.04,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "爱丽家居",
+        "leader_change": 10.042
+      },
+      {
+        "rank": 50,
+        "name": "东数西算",
+        "code": "",
+        "change_pct": 9.98,
+        "up_count": 1,
+        "down_count": 0,
+        "leader": "美利云",
+        "leader_change": 9.978
       }
     ]
   }
