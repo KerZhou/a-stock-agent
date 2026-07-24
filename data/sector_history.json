@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-07-24",
     "max_days": 30
   },
   "dates": {
@@ -10530,6 +10530,1008 @@
         "down_count": 0,
         "leader": "海通发展",
         "leader_change": 10.049
+      }
+    ],
+    "2026-07-24": [
+      {
+        "name": "半导体",
+        "code": "BK1036",
+        "change_pct": 0.65,
+        "up_count": 87,
+        "down_count": 93,
+        "leader": "603690",
+        "leader_change": 10.02,
+        "rank": 1
+      },
+      {
+        "name": "银行Ⅱ",
+        "code": "BK0475",
+        "change_pct": -0.05,
+        "up_count": 20,
+        "down_count": 19,
+        "leader": "002142",
+        "leader_change": 1.04,
+        "rank": 2
+      },
+      {
+        "name": "电子化学品Ⅱ",
+        "code": "BK1039",
+        "change_pct": -0.72,
+        "up_count": 15,
+        "down_count": 22,
+        "leader": "688019",
+        "leader_change": 5.32,
+        "rank": 3
+      },
+      {
+        "name": "国防军工",
+        "code": "BK1204",
+        "change_pct": -0.72,
+        "up_count": 41,
+        "down_count": 98,
+        "leader": "601606",
+        "leader_change": 9.99,
+        "rank": 4
+      },
+      {
+        "name": "其他电子Ⅱ",
+        "code": "BK1223",
+        "change_pct": -0.81,
+        "up_count": 8,
+        "down_count": 25,
+        "leader": "002388",
+        "leader_change": 10.1,
+        "rank": 5
+      },
+      {
+        "name": "电子",
+        "code": "BK1201",
+        "change_pct": -0.84,
+        "up_count": 147,
+        "down_count": 362,
+        "leader": "002199",
+        "leader_change": 9.97,
+        "rank": 6
+      },
+      {
+        "name": "仪器仪表",
+        "code": "BK0458",
+        "change_pct": -0.98,
+        "up_count": 13,
+        "down_count": 48,
+        "leader": "300862",
+        "leader_change": 6.6,
+        "rank": 7
+      },
+      {
+        "name": "纺织制造",
+        "code": "BK1224",
+        "change_pct": -1.03,
+        "up_count": 7,
+        "down_count": 26,
+        "leader": "002083",
+        "leader_change": 10.03,
+        "rank": 8
+      },
+      {
+        "name": "航运港口",
+        "code": "BK0450",
+        "change_pct": -1.23,
+        "up_count": 5,
+        "down_count": 29,
+        "leader": "000520",
+        "leader_change": 1.86,
+        "rank": 9
+      },
+      {
+        "name": "汽车服务",
+        "code": "BK1016",
+        "change_pct": -1.24,
+        "up_count": 1,
+        "down_count": 8,
+        "leader": "300825",
+        "leader_change": 3.76,
+        "rank": 10
+      },
+      {
+        "name": "铁路公路",
+        "code": "BK0421",
+        "change_pct": -1.28,
+        "up_count": 2,
+        "down_count": 31,
+        "leader": "600377",
+        "leader_change": 0.16,
+        "rank": 11
+      },
+      {
+        "name": "装修装饰Ⅱ",
+        "code": "BK0725",
+        "change_pct": -1.3,
+        "up_count": 4,
+        "down_count": 17,
+        "leader": "603137",
+        "leader_change": 4.22,
+        "rank": 12
+      },
+      {
+        "name": "工程咨询服务Ⅱ",
+        "code": "BK0726",
+        "change_pct": -1.4,
+        "up_count": 7,
+        "down_count": 39,
+        "leader": "000779",
+        "leader_change": 10.0,
+        "rank": 13
+      },
+      {
+        "name": "房地产开发",
+        "code": "BK0451",
+        "change_pct": -1.46,
+        "up_count": 11,
+        "down_count": 75,
+        "leader": "000011",
+        "leader_change": 9.99,
+        "rank": 14
+      },
+      {
+        "name": "专用设备",
+        "code": "BK0910",
+        "change_pct": -1.47,
+        "up_count": 29,
+        "down_count": 175,
+        "leader": "603956",
+        "leader_change": 9.93,
+        "rank": 15
+      },
+      {
+        "name": "房地产",
+        "code": "BK1202",
+        "change_pct": -1.49,
+        "up_count": 12,
+        "down_count": 88,
+        "leader": "000011",
+        "leader_change": 9.99,
+        "rank": 16
+      },
+      {
+        "name": "出版",
+        "code": "BK1218",
+        "change_pct": -1.51,
+        "up_count": 4,
+        "down_count": 23,
+        "leader": "601019",
+        "leader_change": 0.69,
+        "rank": 17
+      },
+      {
+        "name": "家用电器",
+        "code": "BK0456",
+        "change_pct": -1.57,
+        "up_count": 14,
+        "down_count": 93,
+        "leader": "603726",
+        "leader_change": 9.99,
+        "rank": 18
+      },
+      {
+        "name": "燃气Ⅱ",
+        "code": "BK1028",
+        "change_pct": -1.57,
+        "up_count": 7,
+        "down_count": 24,
+        "leader": "600617",
+        "leader_change": 10.06,
+        "rank": 19
+      },
+      {
+        "name": "纺织服饰",
+        "code": "BK0436",
+        "change_pct": -1.58,
+        "up_count": 20,
+        "down_count": 91,
+        "leader": "002083",
+        "leader_change": 10.03,
+        "rank": 20
+      },
+      {
+        "name": "建筑装饰",
+        "code": "BK1209",
+        "change_pct": -1.58,
+        "up_count": 20,
+        "down_count": 136,
+        "leader": "000779",
+        "leader_change": 10.0,
+        "rank": 21
+      },
+      {
+        "name": "光学光电子",
+        "code": "BK1038",
+        "change_pct": -1.6,
+        "up_count": 12,
+        "down_count": 82,
+        "leader": "300940",
+        "leader_change": 5.46,
+        "rank": 22
+      },
+      {
+        "name": "交通运输",
+        "code": "BK1210",
+        "change_pct": -1.64,
+        "up_count": 10,
+        "down_count": 117,
+        "leader": "000520",
+        "leader_change": 1.86,
+        "rank": 23
+      },
+      {
+        "name": "服装家纺",
+        "code": "BK1225",
+        "change_pct": -1.64,
+        "up_count": 11,
+        "down_count": 50,
+        "leader": "002634",
+        "leader_change": 6.7,
+        "rank": 24
+      },
+      {
+        "name": "汽车",
+        "code": "BK1211",
+        "change_pct": -1.65,
+        "up_count": 40,
+        "down_count": 285,
+        "leader": "002265",
+        "leader_change": 10.01,
+        "rank": 25
+      },
+      {
+        "name": "房地产服务",
+        "code": "BK1045",
+        "change_pct": -1.72,
+        "up_count": 1,
+        "down_count": 13,
+        "leader": "600743",
+        "leader_change": 1.47,
+        "rank": 26
+      },
+      {
+        "name": "汽车零部件",
+        "code": "BK0481",
+        "change_pct": -1.76,
+        "up_count": 33,
+        "down_count": 242,
+        "leader": "002265",
+        "leader_change": 10.01,
+        "rank": 27
+      },
+      {
+        "name": "通信设备",
+        "code": "BK0448",
+        "change_pct": -1.77,
+        "up_count": 12,
+        "down_count": 79,
+        "leader": "300414",
+        "leader_change": 20.02,
+        "rank": 28
+      },
+      {
+        "name": "工程机械",
+        "code": "BK0739",
+        "change_pct": -1.79,
+        "up_count": 3,
+        "down_count": 32,
+        "leader": "600984",
+        "leader_change": 9.89,
+        "rank": 29
+      },
+      {
+        "name": "消费电子",
+        "code": "BK1037",
+        "change_pct": -1.79,
+        "up_count": 18,
+        "down_count": 81,
+        "leader": "300951",
+        "leader_change": 8.55,
+        "rank": 30
+      },
+      {
+        "name": "机械设备",
+        "code": "BK1205",
+        "change_pct": -1.8,
+        "up_count": 84,
+        "down_count": 528,
+        "leader": "603956",
+        "leader_change": 9.93,
+        "rank": 31
+      },
+      {
+        "name": "轻工制造",
+        "code": "BK1212",
+        "change_pct": -1.87,
+        "up_count": 17,
+        "down_count": 152,
+        "leader": "603221",
+        "leader_change": 9.98,
+        "rank": 32
+      },
+      {
+        "name": "航空机场",
+        "code": "BK0420",
+        "change_pct": -1.91,
+        "up_count": 1,
+        "down_count": 13,
+        "leader": "600004",
+        "leader_change": 0.26,
+        "rank": 33
+      },
+      {
+        "name": "环保",
+        "code": "BK0728",
+        "change_pct": -1.91,
+        "up_count": 13,
+        "down_count": 118,
+        "leader": "300779",
+        "leader_change": 10.48,
+        "rank": 34
+      },
+      {
+        "name": "装修建材",
+        "code": "BK0476",
+        "change_pct": -1.92,
+        "up_count": 4,
+        "down_count": 34,
+        "leader": "920580",
+        "leader_change": 3.97,
+        "rank": 35
+      },
+      {
+        "name": "医疗器械",
+        "code": "BK1041",
+        "change_pct": -1.97,
+        "up_count": 14,
+        "down_count": 124,
+        "leader": "301234",
+        "leader_change": 20.0,
+        "rank": 36
+      },
+      {
+        "name": "橡胶",
+        "code": "BK1018",
+        "change_pct": -2.0,
+        "up_count": 1,
+        "down_count": 22,
+        "leader": "300320",
+        "leader_change": 2.29,
+        "rank": 37
+      },
+      {
+        "name": "风电设备",
+        "code": "BK1032",
+        "change_pct": -2.0,
+        "up_count": 4,
+        "down_count": 27,
+        "leader": "300850",
+        "leader_change": 5.03,
+        "rank": 38
+      },
+      {
+        "name": "通信",
+        "code": "BK1215",
+        "change_pct": -2.01,
+        "up_count": 15,
+        "down_count": 114,
+        "leader": "300414",
+        "leader_change": 20.02,
+        "rank": 39
+      },
+      {
+        "name": "化学制品",
+        "code": "BK0538",
+        "change_pct": -2.05,
+        "up_count": 26,
+        "down_count": 154,
+        "leader": "300214",
+        "leader_change": 16.96,
+        "rank": 40
+      },
+      {
+        "name": "通用设备",
+        "code": "BK0545",
+        "change_pct": -2.05,
+        "up_count": 32,
+        "down_count": 216,
+        "leader": "603400",
+        "leader_change": 7.57,
+        "rank": 41
+      },
+      {
+        "name": "计算机设备",
+        "code": "BK0735",
+        "change_pct": -2.07,
+        "up_count": 11,
+        "down_count": 78,
+        "leader": "001229",
+        "leader_change": 9.99,
+        "rank": 42
+      },
+      {
+        "name": "证券Ⅱ",
+        "code": "BK0473",
+        "change_pct": -2.08,
+        "up_count": 2,
+        "down_count": 47,
+        "leader": "601901",
+        "leader_change": 1.56,
+        "rank": 43
+      },
+      {
+        "name": "塑料",
+        "code": "BK0454",
+        "change_pct": -2.11,
+        "up_count": 9,
+        "down_count": 67,
+        "leader": "603580",
+        "leader_change": 8.29,
+        "rank": 44
+      },
+      {
+        "name": "家居用品",
+        "code": "BK0440",
+        "change_pct": -2.14,
+        "up_count": 5,
+        "down_count": 72,
+        "leader": "603221",
+        "leader_change": 9.98,
+        "rank": 45
+      },
+      {
+        "name": "物流",
+        "code": "BK0422",
+        "change_pct": -2.17,
+        "up_count": 2,
+        "down_count": 44,
+        "leader": "601598",
+        "leader_change": 1.5,
+        "rank": 46
+      },
+      {
+        "name": "建筑材料",
+        "code": "BK1208",
+        "change_pct": -2.21,
+        "up_count": 5,
+        "down_count": 73,
+        "leader": "920580",
+        "leader_change": 3.97,
+        "rank": 47
+      },
+      {
+        "name": "一般零售",
+        "code": "BK0482",
+        "change_pct": -2.22,
+        "up_count": 4,
+        "down_count": 56,
+        "leader": "000417",
+        "leader_change": 5.88,
+        "rank": 48
+      },
+      {
+        "name": "食品饮料",
+        "code": "BK0438",
+        "change_pct": -2.23,
+        "up_count": 8,
+        "down_count": 119,
+        "leader": "603156",
+        "leader_change": 4.64,
+        "rank": 49
+      },
+      {
+        "name": "基础化工",
+        "code": "BK1206",
+        "change_pct": -2.23,
+        "up_count": 49,
+        "down_count": 397,
+        "leader": "300214",
+        "leader_change": 16.96,
+        "rank": 50
+      },
+      {
+        "name": "综合Ⅱ",
+        "code": "BK0539",
+        "change_pct": -2.24,
+        "up_count": 2,
+        "down_count": 20,
+        "leader": "000025",
+        "leader_change": 2.15,
+        "rank": 51
+      },
+      {
+        "name": "综合",
+        "code": "BK1217",
+        "change_pct": -2.24,
+        "up_count": 2,
+        "down_count": 20,
+        "leader": "000025",
+        "leader_change": 2.15,
+        "rank": 52
+      },
+      {
+        "name": "商贸零售",
+        "code": "BK1213",
+        "change_pct": -2.26,
+        "up_count": 7,
+        "down_count": 94,
+        "leader": "600539",
+        "leader_change": 9.98,
+        "rank": 53
+      },
+      {
+        "name": "水泥",
+        "code": "BK0424",
+        "change_pct": -2.28,
+        "up_count": 1,
+        "down_count": 22,
+        "leader": "000672",
+        "leader_change": 2.66,
+        "rank": 54
+      },
+      {
+        "name": "非银金融",
+        "code": "BK1203",
+        "change_pct": -2.3,
+        "up_count": 2,
+        "down_count": 78,
+        "leader": "601901",
+        "leader_change": 1.56,
+        "rank": 55
+      },
+      {
+        "name": "保险Ⅱ",
+        "code": "BK0474",
+        "change_pct": -2.33,
+        "up_count": 0,
+        "down_count": 5,
+        "leader": "601318",
+        "leader_change": -0.55,
+        "rank": 56
+      },
+      {
+        "name": "农化制品",
+        "code": "BK0731",
+        "change_pct": -2.33,
+        "up_count": 5,
+        "down_count": 58,
+        "leader": "300261",
+        "leader_change": 9.47,
+        "rank": 57
+      },
+      {
+        "name": "电池",
+        "code": "BK1033",
+        "change_pct": -2.34,
+        "up_count": 12,
+        "down_count": 94,
+        "leader": "300477",
+        "leader_change": 5.58,
+        "rank": 58
+      },
+      {
+        "name": "电机Ⅱ",
+        "code": "BK1030",
+        "change_pct": -2.36,
+        "up_count": 2,
+        "down_count": 25,
+        "leader": "300626",
+        "leader_change": 4.48,
+        "rank": 59
+      },
+      {
+        "name": "饰品",
+        "code": "BK0734",
+        "change_pct": -2.37,
+        "up_count": 2,
+        "down_count": 15,
+        "leader": "000017",
+        "leader_change": 3.17,
+        "rank": 60
+      },
+      {
+        "name": "医药商业",
+        "code": "BK1042",
+        "change_pct": -2.41,
+        "up_count": 1,
+        "down_count": 31,
+        "leader": "300937",
+        "leader_change": 4.44,
+        "rank": 61
+      },
+      {
+        "name": "化学原料",
+        "code": "BK1019",
+        "change_pct": -2.45,
+        "up_count": 7,
+        "down_count": 57,
+        "leader": "601678",
+        "leader_change": 6.27,
+        "rank": 62
+      },
+      {
+        "name": "电网设备",
+        "code": "BK0457",
+        "change_pct": -2.47,
+        "up_count": 17,
+        "down_count": 124,
+        "leader": "000533",
+        "leader_change": 10.02,
+        "rank": 63
+      },
+      {
+        "name": "元件",
+        "code": "BK0459",
+        "change_pct": -2.48,
+        "up_count": 7,
+        "down_count": 59,
+        "leader": "002199",
+        "leader_change": 9.97,
+        "rank": 64
+      },
+      {
+        "name": "农林牧渔",
+        "code": "BK0433",
+        "change_pct": -2.49,
+        "up_count": 4,
+        "down_count": 107,
+        "leader": "605198",
+        "leader_change": 10.01,
+        "rank": 65
+      },
+      {
+        "name": "电力设备",
+        "code": "BK1200",
+        "change_pct": -2.49,
+        "up_count": 42,
+        "down_count": 366,
+        "leader": "000533",
+        "leader_change": 10.02,
+        "rank": 66
+      },
+      {
+        "name": "教育",
+        "code": "BK0740",
+        "change_pct": -2.51,
+        "up_count": 1,
+        "down_count": 15,
+        "leader": "603377",
+        "leader_change": 0.35,
+        "rank": 67
+      },
+      {
+        "name": "钢铁",
+        "code": "BK0479",
+        "change_pct": -2.53,
+        "up_count": 1,
+        "down_count": 44,
+        "leader": "000708",
+        "leader_change": 0.07,
+        "rank": 68
+      },
+      {
+        "name": "非金属材料Ⅱ",
+        "code": "BK1020",
+        "change_pct": -2.57,
+        "up_count": 1,
+        "down_count": 13,
+        "leader": "920083",
+        "leader_change": 2.98,
+        "rank": 69
+      },
+      {
+        "name": "社会服务",
+        "code": "BK1214",
+        "change_pct": -2.58,
+        "up_count": 6,
+        "down_count": 83,
+        "leader": "600676",
+        "leader_change": 2.98,
+        "rank": 70
+      },
+      {
+        "name": "通信服务",
+        "code": "BK0736",
+        "change_pct": -2.59,
+        "up_count": 3,
+        "down_count": 35,
+        "leader": "301382",
+        "leader_change": 6.21,
+        "rank": 71
+      },
+      {
+        "name": "专业服务",
+        "code": "BK1043",
+        "change_pct": -2.63,
+        "up_count": 2,
+        "down_count": 31,
+        "leader": "603183",
+        "leader_change": 1.26,
+        "rank": 72
+      },
+      {
+        "name": "电视广播Ⅱ",
+        "code": "BK1219",
+        "change_pct": -2.67,
+        "up_count": 0,
+        "down_count": 13,
+        "leader": "600996",
+        "leader_change": -0.32,
+        "rank": 73
+      },
+      {
+        "name": "多元金融",
+        "code": "BK0738",
+        "change_pct": -2.69,
+        "up_count": 0,
+        "down_count": 26,
+        "leader": "600901",
+        "leader_change": -0.3,
+        "rank": 74
+      },
+      {
+        "name": "贸易Ⅱ",
+        "code": "BK0484",
+        "change_pct": -2.74,
+        "up_count": 0,
+        "down_count": 14,
+        "leader": "600278",
+        "leader_change": -0.49,
+        "rank": 75
+      },
+      {
+        "name": "玻璃玻纤",
+        "code": "BK0546",
+        "change_pct": -2.77,
+        "up_count": 0,
+        "down_count": 17,
+        "leader": "900918",
+        "leader_change": -0.96,
+        "rank": 76
+      },
+      {
+        "name": "游戏Ⅱ",
+        "code": "BK1046",
+        "change_pct": -2.8,
+        "up_count": 2,
+        "down_count": 22,
+        "leader": "300467",
+        "leader_change": 3.19,
+        "rank": 77
+      },
+      {
+        "name": "光伏设备",
+        "code": "BK1031",
+        "change_pct": -2.81,
+        "up_count": 5,
+        "down_count": 63,
+        "leader": "603398",
+        "leader_change": 4.14,
+        "rank": 78
+      },
+      {
+        "name": "美容护理",
+        "code": "BK1035",
+        "change_pct": -2.82,
+        "up_count": 2,
+        "down_count": 28,
+        "leader": "603983",
+        "leader_change": 3.49,
+        "rank": 79
+      },
+      {
+        "name": "传媒",
+        "code": "BK0486",
+        "change_pct": -2.83,
+        "up_count": 8,
+        "down_count": 118,
+        "leader": "300467",
+        "leader_change": 3.19,
+        "rank": 80
+      },
+      {
+        "name": "计算机",
+        "code": "BK1207",
+        "change_pct": -2.84,
+        "up_count": 36,
+        "down_count": 323,
+        "leader": "001229",
+        "leader_change": 9.99,
+        "rank": 81
+      },
+      {
+        "name": "石油石化",
+        "code": "BK0464",
+        "change_pct": -2.88,
+        "up_count": 5,
+        "down_count": 43,
+        "leader": "300191",
+        "leader_change": 3.69,
+        "rank": 82
+      },
+      {
+        "name": "软件开发",
+        "code": "BK0737",
+        "change_pct": -2.88,
+        "up_count": 12,
+        "down_count": 121,
+        "leader": "300996",
+        "leader_change": 6.43,
+        "rank": 83
+      },
+      {
+        "name": "医药生物",
+        "code": "BK1216",
+        "change_pct": -2.94,
+        "up_count": 22,
+        "down_count": 484,
+        "leader": "301234",
+        "leader_change": 20.0,
+        "rank": 84
+      },
+      {
+        "name": "其他电源设备Ⅱ",
+        "code": "BK1034",
+        "change_pct": -2.97,
+        "up_count": 2,
+        "down_count": 33,
+        "leader": "688785",
+        "leader_change": 3.71,
+        "rank": 85
+      },
+      {
+        "name": "中药Ⅱ",
+        "code": "BK1040",
+        "change_pct": -2.97,
+        "up_count": 1,
+        "down_count": 65,
+        "leader": "603139",
+        "leader_change": 2.44,
+        "rank": 86
+      },
+      {
+        "name": "医疗服务",
+        "code": "BK0727",
+        "change_pct": -3.02,
+        "up_count": 2,
+        "down_count": 52,
+        "leader": "301520",
+        "leader_change": 1.98,
+        "rank": 87
+      },
+      {
+        "name": "化学纤维",
+        "code": "BK0471",
+        "change_pct": -3.03,
+        "up_count": 0,
+        "down_count": 26,
+        "leader": "600370",
+        "leader_change": 0,
+        "rank": 88
+      },
+      {
+        "name": "煤炭",
+        "code": "BK0437",
+        "change_pct": -3.33,
+        "up_count": 2,
+        "down_count": 32,
+        "leader": "900948",
+        "leader_change": 1.57,
+        "rank": 89
+      },
+      {
+        "name": "影视院线",
+        "code": "BK1222",
+        "change_pct": -3.33,
+        "up_count": 1,
+        "down_count": 17,
+        "leader": "000802",
+        "leader_change": 0.8,
+        "rank": 90
+      },
+      {
+        "name": "生物制品",
+        "code": "BK1044",
+        "change_pct": -3.38,
+        "up_count": 2,
+        "down_count": 56,
+        "leader": "000518",
+        "leader_change": 0.86,
+        "rank": 91
+      },
+      {
+        "name": "广告营销",
+        "code": "BK1220",
+        "change_pct": -3.47,
+        "up_count": 1,
+        "down_count": 28,
+        "leader": "603825",
+        "leader_change": 0.88,
+        "rank": 92
+      },
+      {
+        "name": "公用事业",
+        "code": "BK0427",
+        "change_pct": -3.65,
+        "up_count": 13,
+        "down_count": 130,
+        "leader": "600617",
+        "leader_change": 10.06,
+        "rank": 93
+      },
+      {
+        "name": "数字媒体",
+        "code": "BK1221",
+        "change_pct": -3.66,
+        "up_count": 0,
+        "down_count": 15,
+        "leader": "300295",
+        "leader_change": -1.28,
+        "rank": 94
+      },
+      {
+        "name": "化学制药",
+        "code": "BK0465",
+        "change_pct": -3.7,
+        "up_count": 2,
+        "down_count": 156,
+        "leader": "002082",
+        "leader_change": 1.23,
+        "rank": 95
+      },
+      {
+        "name": "能源金属",
+        "code": "BK1015",
+        "change_pct": -3.98,
+        "up_count": 0,
+        "down_count": 11,
+        "leader": "603399",
+        "leader_change": -1.53,
+        "rank": 96
+      },
+      {
+        "name": "小金属",
+        "code": "BK1027",
+        "change_pct": -4.02,
+        "up_count": 1,
+        "down_count": 25,
+        "leader": "002428",
+        "leader_change": 1.98,
+        "rank": 97
+      },
+      {
+        "name": "有色金属",
+        "code": "BK0478",
+        "change_pct": -4.05,
+        "up_count": 1,
+        "down_count": 142,
+        "leader": "002428",
+        "leader_change": 1.98,
+        "rank": 98
+      },
+      {
+        "name": "电力",
+        "code": "BK0428",
+        "change_pct": -4.23,
+        "up_count": 6,
+        "down_count": 106,
+        "leader": "001258",
+        "leader_change": 9.91,
+        "rank": 99
+      },
+      {
+        "name": "贵金属",
+        "code": "BK0732",
+        "change_pct": -5.51,
+        "up_count": 0,
+        "down_count": 13,
+        "leader": "000603",
+        "leader_change": -1.09,
+        "rank": 100
       }
     ]
   }
